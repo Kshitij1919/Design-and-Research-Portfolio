@@ -1,7 +1,7 @@
 # Design-and-Research-Portfolio
 This Repository is a centralized platform for accessing all my Game Design and Research Projects.
 
-## Histroy Of Video Games
+## History Of Video Games
 This Infographic Illustrates my analysis of the significant events that shaped the Gaming Industry from the 1950s to 2010s.
 
 [History OF VIDEO GAMES.pdf](https://github.com/user-attachments/files/16609410/History.OF.VIDEO.GAMES.pdf)
@@ -38,5 +38,13 @@ This document is a research study on the game, encompassing topics such as featu
 ![Evolution of Prince of Persia  Sands of Time trilogy by Kshitij Chandankhede-images-11](https://github.com/user-attachments/assets/6bbb2e03-cef0-4c64-bc69-1fd97f7cca7c)
 
 ![Evolution of Prince of Persia  Sands of Time trilogy by Kshitij Chandankhede-images-12](https://github.com/user-attachments/assets/1f9d2a05-4fc5-4cba-a064-405948680d9b)
+
+## 1990s Video Game Evolution
+This Infographic depicts the progression of the development aspect of the video game industry.
+
+[1990s video game evolution.pdf](https://github.com/user-attachments/files/16610211/1990s.video.game.evolution.pdf)
+
+![1990s video game evolution](https://github.com/user-attachments/assets/0b88e5e4-4aa6-4ebf-9b84-f259d3005d43)
+
 
 
