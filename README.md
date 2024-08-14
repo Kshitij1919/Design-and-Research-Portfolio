@@ -1,6 +1,11 @@
 # Design-and-Research-Portfolio
 This Repository is a centralized platform for accessing all my Game Design and Research Projects.
 
+#### INDEX
+1. [History Of Video Games](https://github.com/Kshitij1919/Design-and-Research-Portfolio/blob/main/README.md#histroy-of-video-games)
+2. [Research Document On Prince Of Persia](https://github.com/Kshitij1919/Design-and-Research-Portfolio?tab=readme-ov-file#research-document-on-prince-of-persia)
+3. [1990’s Video Game Evolution](https://github.com/Kshitij1919/Design-and-Research-Portfolio#1990s-video-game-evolution)
+
 ## History Of Video Games
 This Infographic Illustrates my analysis of the significant events that shaped the Gaming Industry from the 1950s to 2010s.
 
