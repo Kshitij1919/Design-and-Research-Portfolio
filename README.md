@@ -6,3 +6,7 @@ This Infographic Illustrates my analysis of the significant events that shaped t
 
 [History OF VIDEO GAMES.pdf](https://github.com/user-attachments/files/16609410/History.OF.VIDEO.GAMES.pdf)
 
+![History OF VIDEO GAMES](https://github.com/user-attachments/assets/f825cbf3-4826-4671-a92e-130fded2ed7b)
+
+
+
